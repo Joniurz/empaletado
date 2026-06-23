@@ -1,6 +1,6 @@
 # Empaletado 🎨✨
 
-**Empaletado** é uma plataforma digital de alta fidelidade e curadoria cromática projetada para auxiliar designers, desenvolvedores e criadores a encontrarem a harmonia de cores ideal para a identidade de suas marcas. 
+**Empaletado** é uma plataforma projetada para auxiliar designers, desenvolvedores e criadores a encontrarem a harmonia de cores ideal para a identidade de suas marcas. 
 
 Desenvolvida com foco em **fidelidade estética e precisão técnica**, a ferramenta remove ornamentos visuais desnecessários da interface, funcionando como um "canvas neutro" onde as cores são as protagonistas absolutas.
 
