@@ -1,0 +1,6 @@
+{
+  "name": "Empaletado",
+  "description": "Plataforma de curadoria de paletas de cores para marcas, com sugestões de alta fidelidade baseadas em estilo, emoção e segmento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

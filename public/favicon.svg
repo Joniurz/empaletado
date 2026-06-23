@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Left color swatch (Rose) -->
+  <rect x="16" y="18" width="10" height="36" rx="3.5" fill="#f43f5e" transform="rotate(-25 21 54)" opacity="0.95" />
+  
+  <!-- Right color swatch (Amber) -->
+  <rect x="38" y="18" width="10" height="36" rx="3.5" fill="#fbbf24" transform="rotate(25 43 54)" opacity="0.95" />
+  
+  <!-- Center color swatch (Indigo) on top -->
+  <rect x="27" y="13" width="10" height="41" rx="3.5" fill="#4f46e5" stroke="#ffffff" stroke-width="1.5" />
+</svg>
